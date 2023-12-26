@@ -9,3 +9,12 @@
 	--The Workshop id can be found at the end of the url to the collection's Workshop page.
 	--Example: http://steamcommunity.com/sharedfiles/filedetails/?id=379114180
 	--ServerModCollectionSetup("379114180")
+
+ServerModSetup("1185229307")
+ServerModSetup("1226903961")
+ServerModSetup("1595631294")
+ServerModSetup("2078243581")
+ServerModSetup("2902364746")
+ServerModSetup("362175979")
+ServerModSetup("375850593")
+ServerModSetup("666155465")

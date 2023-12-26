@@ -1,17 +1,22 @@
 return {
   ["workshop-1185229307"]={
     configuration_options={
-      [""]="",
+      CAMERA=true,
       DAMAGE_NUMBERS=true,
       DAMAGE_RESISTANCE=true,
       FRAME_PHASES=true,
+      GLOBAL=false,
+      GLOBAL_NUMBERS=false,
+      HEADER_CLIENT=false,
+      HEADER_SERVER=false,
       HORIZONTAL_OFFSET=0,
-      NOEPIC=false,
-      NONOEPIC=false,
+      TAG="EPIC",
+      TRANSLATOR=false,
       WETNESS_METER=false 
     },
     enabled=true 
   },
+  ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1226903961"]={
     configuration_options={
       bossstrengthen=false,
@@ -22,24 +27,48 @@ return {
     },
     enabled=true 
   },
-  ["workshop-1595631294"]={
+  ["workshop-1530801499"]={
+    configuration_options={ ArrowsignEnable=false, HungerCost=1, Ownership=false, SanityCost=1 },
+    enabled=true 
+  },
+  ["workshop-2021943702"]={ configuration_options={  }, enabled=true },
+  ["workshop-375850593"]={ configuration_options={  }, enabled=true },
+  ["workshop-378160973"]={
     configuration_options={
-      BundleItems=false,
-      ChangeSkin=true,
-      Digornot=false,
-      DragonflyChest=false,
-      Icebox=false,
-      SaltBox=false 
+      ENABLEPINGS=true,
+      FIREOPTIONS=2,
+      OVERRIDEMODE=false,
+      SHAREMINIMAPPROGRESS=true,
+      SHOWFIREICONS=true,
+      SHOWPLAYERICONS=true,
+      SHOWPLAYERSOPTIONS=2 
     },
     enabled=true 
   },
-  ["workshop-2078243581"]={
-    configuration_options={ Blue=0, Display="target", Green=0, Projectile=true, Red=1, Type="hit" },
+  ["workshop-466732225"]={ configuration_options={  }, enabled=true },
+  ["workshop-569043634"]={
+    configuration_options={
+      Health_Penalty_Generic="Unchanged",
+      Health_Penalty_Maximum="Unchanged",
+      Health_Penalty_Meat_Effigy="Unchanged",
+      Health_Penalty_Portal="Unchanged",
+      Health_Respawn_Amount="Unchanged",
+      KeepInventory="Unchanged",
+      KillMe="Unchanged",
+      NoPlayerSkeletons="Unchanged",
+      ReturnHotkey="Unchanged",
+      ReturnHotkey_Mode="Closest",
+      SpawnProtection="Unchanged",
+      campfire="Enabled",
+      coldfire="Enabled",
+      coldfirepit="Enabled",
+      firepit="Enabled",
+      reviver="Unchanged",
+      skeleton="Unchanged",
+      usetags="Unchanged" 
+    },
     enabled=true 
   },
-  ["workshop-2902364746"]={ configuration_options={ mode="Share" }, enabled=true },
-  ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
-  ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-666155465"]={
     configuration_options={
       chestB=-1,
@@ -52,6 +81,43 @@ return {
       lang="auto",
       show_food_units=-1,
       show_uses=-1 
+    },
+    enabled=true 
+  },
+  ["workshop-700236083"]={
+    configuration_options={
+      berrybush=1,
+      berrybush2=1,
+      berrybush_juicy=2,
+      blue_mushroom=0,
+      build=2,
+      cactus=1,
+      carrot_planted=0,
+      cave_banana_tree=1,
+      cave_fern=0,
+      cook=1,
+      draw=1,
+      flower=0,
+      flower_cave=1,
+      flower_cave_double=1,
+      flower_cave_triple=1,
+      flower_evil=0,
+      grass=1,
+      green_mushroom=0,
+      harvest=1,
+      heal=1,
+      lichen=1,
+      mandrake_planted=1,
+      marsh_bush=1,
+      oasis_cactus=1,
+      red_mushroom=0,
+      reeds=1,
+      resetmine=1,
+      sapling=1,
+      statueglommer=1,
+      tallbirdnest=1,
+      tumbleweed=1,
+      wormlight_plant=1 
     },
     enabled=true 
   } 

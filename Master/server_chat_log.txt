@@ -1,4 +1,4 @@
-[00:00:48]: [Join Announcement] 臭臭
-[00:00:54]: [Ai_trophy Announcement] 臭臭 【成功进入游戏】 完成 【开始杀戮之旅】 奖励: 15点 󰀭
-[00:00:54]: [Announcement] 玩家[臭臭] 已加入永恒大陆! 按N可打开成就界面.
-[00:02:01]: [Leave Announcement] 臭臭
+[00:01:11]: [Join Announcement] 这次，我站在雾里，连
+[00:01:20]: [Announcement] 玩家[这次，我站在雾里，连] 已加入永恒大陆! 按N可打开成就界面.
+[00:01:29]: [Roll Announcement] (KU_MNi18siW) 这次，我站在雾里，连 83 (1-100)
+[00:02:47]: [Leave Announcement] 这次，我站在雾里，连

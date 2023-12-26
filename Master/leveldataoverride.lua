@@ -136,6 +136,8 @@ return {
     reeds_regrowth="default",
     regrowth="default",
     resettime="none",
+    rifts_enabled="default",
+    rifts_frequency="default",
     roads="default",
     rock="default",
     rock_ice="default",
@@ -216,7 +218,8 @@ return {
   settings_name="无尽",
   substitutes={  },
   version=4,
-  worldgen_desc="标准《饥荒》体验。",
-  worldgen_id="SURVIVAL_TOGETHER",
-  worldgen_name="生存" 
+  worldgen_desc="永不结束的饥荒沙盒模式。\
+永远可以在绚丽之门复活。",
+  worldgen_id="ENDLESS",
+  worldgen_name="无尽" 
 }

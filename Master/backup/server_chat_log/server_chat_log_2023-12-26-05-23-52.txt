@@ -1,0 +1,8 @@
+[00:02:03]: [Join Announcement] 这次，我站在雾里，连
+[00:03:58]: [Leave Announcement] 这次，我站在雾里，连
+[00:05:33]: [Join Announcement] 这次，我站在雾里，连
+[00:05:55]: [Ai_trophy Announcement] 这次，我站在雾里，连 【成功进入游戏】 完成 【开始杀戮之旅】 奖励: 15点 󰀭
+[00:05:55]: [Announcement] 玩家[这次，我站在雾里，连] 已加入永恒大陆! 按N可打开成就界面.
+[00:06:26]: [Ai_trophy Announcement] 这次，我站在雾里，连 【采集1次任意资源】 完成 【采集开始】 奖励: 1点 󰀭
+[00:08:37]: [Roll Announcement] (KU_MNi18siW) 这次，我站在雾里，连 10 (1-100)
+[00:08:47]: [Leave Announcement] 这次，我站在雾里，连
